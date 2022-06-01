@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Stefan Miller
 
 <!--
 **stefanmiller27/stefanmiller27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
